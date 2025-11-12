@@ -32,7 +32,7 @@ Before running the programs, make sure you have the following installed:
 1. **Download or Clone this repository**
    ```bash
    git clone https://github.com/MayurDodiya393/PHP-Basics-Practise.git
-````
+    ````
 
 2. **Move the folder** into your XAMPP `htdocs` directory:
 
