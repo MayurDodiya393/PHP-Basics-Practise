@@ -1,14 +1,9 @@
-Here’s a clean, professional **README.md** for your PHP project — especially suited for beginners learning PHP using **XAMPP** or similar setups 👇
 
----
-
-````markdown
 # PHP Core Practice 🚀
 
 This repository contains my **PHP practice programs** that cover core concepts of PHP development.  
 These examples are written and tested using **XAMPP** (Apache + MySQL + PHP) on Windows.
 
----
 
 ## 🧠 About
 
@@ -22,7 +17,6 @@ This project is a collection of PHP files created while learning and exploring:
 - Connecting PHP with MySQL Database
 - Sessions, Cookies, and Authentication Basics
 
----
 
 ## ⚙️ Requirements
 
@@ -32,7 +26,6 @@ Before running the programs, make sure you have the following installed:
 - PHP 8.0+ (comes with XAMPP)
 - A web browser (Chrome, Edge, Firefox, etc.)
 
----
 
 ## 🖥️ How to Run the Project
 
