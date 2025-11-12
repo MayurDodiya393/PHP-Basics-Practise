@@ -53,7 +53,6 @@ Before running the programs, make sure you have the following installed:
 
 5. Explore and run different PHP files to understand each concept!
 
----
 
 ## 📂 Folder Structure
 
@@ -67,8 +66,6 @@ PHP-Core/
 │   └── ...
 └── README.md
 ```
-
----
 
 ## 🧩 Topics Covered
 
@@ -84,14 +81,12 @@ PHP-Core/
 | 8 | MySQL Integration  | Connecting and querying databases      |
 | 9 | Sessions & Cookies | Authentication and data persistence    |
 
----
 
 ## 🧑‍💻 Author
 
 **Mayur Dodiya**
 🔗 [GitHub Profile](https://github.com/MayurDodiya393)
 
----
 
 ## 🏁 License
 
@@ -99,7 +94,6 @@ This project is open-source and available under the **MIT License**.
 
 ```
 
----
 
 Would you like me to make this **more beginner-friendly** (simple English, less technical) or **professional for GitHub portfolio use** (more structured and formal)?
 ```
